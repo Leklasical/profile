@@ -1,0 +1,13 @@
+ul {
+    margin: 100px ;
+    color: red;
+    background-position: center;
+    
+
+}
+body {
+    background-image: url("Menu.jpg");
+    backface-visibility: visible;
+    background-position: center;
+
+}
